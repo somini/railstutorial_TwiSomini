@@ -1,0 +1,2 @@
+module BrainfartsHelper
+end
